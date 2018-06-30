@@ -1,2 +1,28 @@
 # Metasploit-step-by-step
-Termux auto install Script with non errer's !! everything in this folder has #GottModusTermux, self-tested and the installertions commands checked themselves. 
+everything in this folder has #GottModusTermux, self-tested and the installertions commands checked themselves. 
+
+Ultimate Linux Terminal on Android 
+ #GottModusTermux <---
+
+ Metasploit on Termux !!
+ auto install without error's
+ 
+
+follow the next steps for MetaSploit
+ >Copy&Paste:
+
+cd GodToolsTermux/Metasploit
+
+chmod +x metasploit.sh
+
+./metasploit
+
+cd
+
+cd metasploit-framework
+
+msfconsole
+
+
+____
+#GottModusTermux 
