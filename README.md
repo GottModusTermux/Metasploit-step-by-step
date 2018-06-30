@@ -10,8 +10,11 @@ Ultimate Linux Terminal on Android
 
 follow the next steps for MetaSploit
  >Copy&Paste:
+apt install git
 
-cd GodToolsTermux/Metasploit
+git clone https://github.com/GottModusTermux/Metasploit-step-by-step.git
+
+cd Metasploit
 
 chmod +x metasploit.sh
 
