@@ -1,5 +1,9 @@
 # Metasploit-step-by-step
+16.10.2018 last Self-Test (dd.mm.yyyy)
+no error on install !!
+ 
 everything in this folder has #GottModusTermux, self-tested and the installertions commands checked themselves. 
+BigThanks hax4us.com for the script.
 
 Ultimate Linux Terminal on Android 
  #GottModusTermux <---
