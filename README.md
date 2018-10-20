@@ -18,7 +18,7 @@ follow the next steps for MetaSploit
 
 > git clone https://github.com/GottModusTermux/Metasploit-step-by-step.git
 
-> cd Metasploit
+> cd Metasploit-step-by-srep
 
 > chmod 777 metasploit.sh
 
