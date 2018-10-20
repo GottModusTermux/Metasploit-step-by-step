@@ -8,12 +8,12 @@ BigThanks hax4us.com for the script.
 Ultimate Linux Terminal on Android 
  #GottModusTermux <---
 
- Metasploit on Termux !!
+# Metasploit on Termux !!
  auto install without error's
  
 
 follow the next steps for MetaSploit
- >Copy&Paste:
+ # Copy&Paste:
 > apt install git
 
 > git clone https://github.com/GottModusTermux/Metasploit-step-by-step.git
