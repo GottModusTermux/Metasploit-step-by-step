@@ -22,7 +22,7 @@ follow the next steps for MetaSploit
 
 > chmod 777 metasploit.sh
 
-> ./metasploit
+> ./metasploit.sh
 
 > cd
 
