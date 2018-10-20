@@ -14,22 +14,22 @@ Ultimate Linux Terminal on Android
 
 follow the next steps for MetaSploit
  >Copy&Paste:
-apt install git
+> apt install git
 
-git clone https://github.com/GottModusTermux/Metasploit-step-by-step.git
+> git clone https://github.com/GottModusTermux/Metasploit-step-by-step.git
 
-cd Metasploit
+> cd Metasploit
 
-chmod 777 metasploit.sh
+> chmod 777 metasploit.sh
 
-./metasploit
+> ./metasploit
 
-cd
+> cd
 
-cd metasploit-framework
+> cd metasploit-framework
 
-msfconsole
+> msfconsole
 
 
 ____
-#GottModusTermux 
+# #GottModusTermux 
