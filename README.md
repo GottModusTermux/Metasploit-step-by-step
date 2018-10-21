@@ -20,9 +20,9 @@ follow the next steps for MetaSploit
 
 > cd Metasploit-step-by-srep
 
-> chmod 777 metasploit.sh
+> chmod +x * 
 
-> sudo bash metasploit.sh
+> bash metasploit.sh
 ____
 
 > cd
